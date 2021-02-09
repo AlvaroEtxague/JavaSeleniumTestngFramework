@@ -3,7 +3,7 @@
 # Deployment
 In the terminal, navigate to the location in which you would like to store the repo. You can do so by typing the following command:
 
-cd <your directory>
+cd yourDirectoryHere
 
 Now, with the repo URL still copied to your clipboard, it’s time to clone the repo. Enter the following command:
 git clone https://github.com/zippote/JavaSeleniumTestngFramework.git
